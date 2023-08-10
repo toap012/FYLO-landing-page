@@ -1,0 +1,17 @@
+.app-footer {
+    background-color: #0b1524;
+    grid-column: 1/-1;
+    padding:200px 90px 160px 120px;
+
+    .logo {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+    }
+
+    footer {
+        margin-top: 30px;
+        display: flex;
+        justify-content: space-between;
+    }
+}
